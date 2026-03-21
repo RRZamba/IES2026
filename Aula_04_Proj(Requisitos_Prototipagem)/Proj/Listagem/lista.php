@@ -24,9 +24,9 @@
 	<!-- Navegação -->
 	<ul class="nav nav-tabs mb-3">
 		<li class="nav-item">
-			<a class="nav-link" href="#">
+			<a class="nav-link" href="../Cadastro/cadastro.php">
 				Cadastrar Produto
-			</a>
+			</a> 
 		</li>
 		<li class="nav-item">
 			<a class="nav-link active" href="#">
