@@ -1,0 +1,16 @@
+
+CREATE DATABASE produtinhos;
+
+CREATE TABLE produto (
+  `nome` varchar(45) ,
+  `descricao` varchar(90) ,
+  `area` varchar(45) ,
+  `preco` double ,
+  `moeda` varchar(3),
+  `pais` varchar(45)
+);
+
+
+
+INSERT INTO `produto` (`nome`, `descricao`, `area`, `preco`, `moeda`, `pais`) VALUES
+('Notebook', 'Asus ', '2', 3000, 'R$', 'China');
